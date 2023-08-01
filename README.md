@@ -2,7 +2,7 @@
 
 
 🌱 
-- I’m currently learning PYTHON; DATA ANALYST; SQL;
+- I’m currently learning PYTHON; DATA ANALYST; SQL; R; 
 - Specialist in Molecular Biology and Bachelor of Biomedicine.
 - Knowledge in Jupyter Notebook; Google Collab; Google BigQuery; SQLite; Excel; POWER BI.
 
