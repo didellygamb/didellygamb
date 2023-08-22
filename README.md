@@ -11,7 +11,7 @@ Tenho estudado constantemente a Linguagem Python, R e SQL. Também possuo conhec
 Jupyter Notebook |
 Google Collab |
 Google BigQuery |
-SQLite | VS Code 
+SQLite | VS Code | PyCharm
 
 ![image](https://github.com/didellygamb/didellygamb/assets/109447846/fd59bc0b-3025-44d0-bbed-541026a3c03d)
 
