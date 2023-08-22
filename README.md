@@ -1,9 +1,20 @@
-### Hello World! 👋
+# 💫 Didelly Gambini
+
+💻
+
+| Conheci a linguagem de programação Python durante minha especialização em Biologia Molecular onde estudei conceitos em Bioinformática.
+Tenho estudado constantemente a Linguagem Python, R e SQL. Também possuo conhecimentos em Power BI, Excel e conceitos em Estatística e Machine Learning. |
 
 
-🌱 
-- I’m currently learning PYTHON; DATA ANALYST; SQL; R; 
-- Specialist in Molecular Biology and Bachelor of Biomedicine.
-- Knowledge in Jupyter Notebook; Google Collab; Google BigQuery; SQLite; Excel; POWER BI.
+🔧
 
-![image](https://user-images.githubusercontent.com/109447846/193636410-ae3be0df-e955-4421-a4b3-5bed2b40bfeb.png)
+Jupyter Notebook |
+Google Collab |
+Google BigQuery |
+SQLite | VS Code 
+
+![image](https://github.com/didellygamb/didellygamb/assets/109447846/fd59bc0b-3025-44d0-bbed-541026a3c03d)
+
+## 📬  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/feed//)  
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/channels/@me)
