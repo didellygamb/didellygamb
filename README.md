@@ -2,8 +2,7 @@
 
 💻
 
-| Conheci a linguagem de programação Python durante minha especialização em Biologia Molecular onde estudei conceitos em Bioinformática.
-Tenho estudado constantemente a Linguagem Python e SQL. Também possuo conhecimentos em Power BI, Excel, R e conceitos em Estatística e Machine Learning. |
+| Conheci a linguagem de programação Python durante minha especialização na disciplina de Bioinformática, desde então tenho estudado constantemente a Linguagem Python e SQL. Também possuo conhecimentos em Power BI, Excel, R e conceitos em Estatística e Machine Learning. |
 
 
 🔧
